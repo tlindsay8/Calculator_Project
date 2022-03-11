@@ -1,19 +1,19 @@
 
 input[type='button'] {
-    width: 13em;
-    height: 10em;
+    width: 5em;
+    height: 5em;
     border-radius: 100%;
     border: none;
-    margin-bottom: 2em;
     margin-right: .5em;
     margin-left: 1em;
-    margin-bottom: 2em;
+    margin-bottom: .5em;
+    font-size: 18px;
 }
 
 #calcContainer {
     background-color: black;
-    width: 50em;
-    height: 60em;
+    width: 30em;
+    height: 40em;
 }
 
 .grayButton {
@@ -46,6 +46,6 @@ input[type='button'] {
 }
 
 #zero {
-    width: 27em;
+    width: 11.5em;
     border-radius: 75em;
 }
